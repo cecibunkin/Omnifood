@@ -9,7 +9,7 @@
 
 Responsive website for subscription-based healthy food company.
 
-[![Watch the video](./assets/Screenshot1.png)](./assets/omnifood-video.mp4)
+[Watch the video](https://raw.githubusercontent.com/cecibunkin/Omnifood/main/assets/omnifood-video.mp4)
 
 ### Built With
 
