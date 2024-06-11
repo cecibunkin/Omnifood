@@ -1,13 +1,15 @@
 ## About The Project
 
-![Omnifood landing](./screenshots/Screenshot1.png)
-![Omnifood login](./screenshots/Screenshot3.png)
+![Omnifood landing](./assets/Screenshot1.png)
+![Omnifood login](./assets/Screenshot3.png)
 
-|                          Landing                          |                         Sign up                         |
-| :-------------------------------------------------------: | :-----------------------------------------------------: |
-| ![Omnifood landing mobile](./screenshots/Screenshot2.png) | ![Omnifood login mobile](./screenshots/Screenshot4.png) |
+|                       Landing                        |                      Sign up                       |
+| :--------------------------------------------------: | :------------------------------------------------: |
+| ![Omnifood landing mobile](./assets/Screenshot2.png) | ![Omnifood login mobile](./assets/Screenshot4.png) |
 
 Responsive website for subscription-based healthy food company.
+
+[![Watch the video](https://raw.githubusercontent.com/cecibunkin/Omnifood/main/assets/Screenshot1.jpg)](https://raw.githubusercontent.com/cecibunkin/Omnifood/main/assets/omnifood-video.mp4)
 
 ### Built With
 
